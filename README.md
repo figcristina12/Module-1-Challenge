@@ -1,2 +1,2 @@
-# Module-1-Challenge
-Data Analytics Bootcamp_HW1
+# excel-challenge
+Data Analytics Bootcamp_Module 1 Challenge
